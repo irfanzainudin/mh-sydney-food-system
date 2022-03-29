@@ -8,7 +8,7 @@ function Navibar() {
   return (
     <Navbar bg="primary" variant="dark">
 		<Container>
-			<Navbar.Brand href="/">MHS Food System</Navbar.Brand>
+			<Navbar.Brand href="/">Footem 🍲</Navbar.Brand>
 			<Nav className="me-auto">
 				<Nav.Link href="/">Home</Nav.Link>
 				{/* <Nav.Link href="/hall-of-fame">Hall of Fame</Nav.Link> */}
